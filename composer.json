@@ -1,0 +1,15 @@
+{
+    "name": "usuario/sistemaescolarv3",
+    "description": "\"proyecto de sistema escolar v3\"",
+    "type": "project",
+    "authors": [
+        {
+            "name": "AnaJuanaBautista",
+            "email": "anaescamilla731@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.13",
+        "illuminate/events": "^8.13"
+    }
+}
